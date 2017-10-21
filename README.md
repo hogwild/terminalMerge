@@ -1,3 +1,3 @@
 # terminalMerge
-# I would like to try merge
-# in the terminal
+I would like to try merge
+in the terminal
